@@ -1,0 +1,90 @@
+.abc {
+    margin: 0px;
+    background: linear-gradient(rgba(0, 0, 0, 0.36), rgba(0, 0, 0, 0.36)), url("IMG.jpg") no-repeat;
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+    margin-top: 0%;
+    width: auto;
+}
+
+nav {
+    width: auto;
+    height: 48px;
+    background-color: rgba(0, 0, 0, 0.78);
+    overflow: hidden;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.home {
+    text-decoration: none;
+    width: auto;
+    height: auto;
+    white-space: pre;
+    font-size: 20px;
+    line-height: 1.2;
+    color: #ffffff;
+    font-weight: 100;
+    font-family: "Inter-ThinItalic", "Inter", sans-serif;
+}
+
+h1 {
+    background-color: #ffffffb2;
+    padding: 20px;
+    width: 90px;
+    margin-top: 0%;
+    font-size: 48px;
+}
+
+p {
+    text-align: center;
+    width: auto;
+    height: 100px;
+    white-space: pre;
+    letter-spacing: 0px;
+    line-height: 1.2;
+    color: #ffffff;
+    font-weight: 700;
+    font-style: italic;
+    font-size: 36px;
+    padding-bottom: 0px;
+    background-color: rgba(0, 0, 0, 0.247);
+}
+
+.foot {
+    width: auto;
+    height: 20px;
+    white-space: pre;
+    font-family: "Inter", sans-serif;
+    color: #ffffff;
+    line-height: 0.4;
+    font-size: 18px;
+    background-color: rgba(0, 0, 0, 0.507);
+    padding: 0px;
+    padding-left: 5in;
+}
+
+.button {
+    margin-left: 42.5%;
+    padding: 1%;
+    border-width: 0px;
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    text-decoration: none;
+    transition: transform .5s;
+}
+
+.button:hover {
+    border-width: 0px;
+    background: #ffffff;
+    color: #000000;
+    transform: scale(1.1);
+}
+
+div {
+    text-emphasis-color: white;
+}
